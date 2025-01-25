@@ -3,7 +3,8 @@ import { Button } from "@/components/ui/button";
 const page = () => {
   return (
     <div>
-      <Button>asas</Button>
+      Home Page
+      <Button>Click me</Button>
     </div>
   );
 };
